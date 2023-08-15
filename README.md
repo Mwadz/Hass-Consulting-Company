@@ -1,2 +1,2 @@
-# Hass-Consulting-Company-w7
-Submitted as a part of a School Data Science curriculum Deliverable
+# Hass-Consulting-Company
+Creating a model that allows Hass Consulting Company to accurately predict the sale of prices upon being provided with the predictor variables
